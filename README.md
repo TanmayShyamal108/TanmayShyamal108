@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tanmay Shyamal</h1>
 <h3 align="center">A passionate Full stack Frontend Developer from India</h3>
 
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently learning **React, Redux, SQL**
 
 - 👯 I’m looking to collaborate on **React project**
 
-- 💬 Ask me about **React, HTML, CSS, JavaScript..**
+- 💬 Ask me about **React, JavaScript, Bootstrap, HTML5, CSS3, SASS, NodeJS, ExpressJS, MongoDB, RESTAPI**
 
 - 📫 How to reach me **shyamaltanmay2020@gmail.com**
 
